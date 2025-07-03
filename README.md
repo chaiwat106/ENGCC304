@@ -7,7 +7,7 @@ i am learning
 learning programing
 
 * 🌍  I'm based in thailand
-* 🖥️  See my portfolio at [my intragram acccount](_nextsund4y/)
+* 🖥️  See my portfolio at [[my intragram acccount](https://www.instagram.com/_nextsund4y/)]
 * ✉️  You can contact me at [chaiwat\_punthong@live.rmutl.ac.th](mailto:chaiwat_punthong@live.rmutl.ac.th)
 * 🧠  I'm learning c , cpp ,python .... all
 
