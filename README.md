@@ -29,4 +29,4 @@ src="https://img.shields.io/github/followers/chaiwat?logo=github&style=for-the-b
 
 ### Badges# ENGCC304
 
-<blackground> color(blcak);
+<blackground> (perfers-color-scheme: drak)
