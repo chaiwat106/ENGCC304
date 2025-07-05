@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is chaiwat kong-in
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaiwat Kong-in
 =======================================================================================================================================
 
-i am learning
+i am studying at RMUTL
 -------------
 
 learning programing
@@ -9,7 +9,7 @@ learning programing
 * 🌍  I'm based in thailand
 * 🖥️  See my portfolio at [my intragram acccount](https://www.instagram.com/_nextsund4y/)
 * ✉️  You can contact me at [chaiwat\_punthong@live.rmutl.ac.th](mailto:chaiwat_punthong@live.rmutl.ac.th)
-* 🧠  I'm learning  C , C++ ,python .... other
+* 🧠  I'm learning  C , C++ , python and try to learn ohter language
 
 <a href="https://www.github.com/chaiwat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chaiwat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
