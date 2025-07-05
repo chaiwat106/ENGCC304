@@ -9,7 +9,7 @@ learning programing
 * 🌍  I'm based in thailand
 * 🖥️  See my portfolio at [my intragram acccount](https://www.instagram.com/_nextsund4y/)
 * ✉️  You can contact me at [chaiwat\_punthong@live.rmutl.ac.th](mailto:chaiwat_punthong@live.rmutl.ac.th)
-* 🧠  I'm learning  c , cpp ,python .... other
+* 🧠  I'm learning  C , C++ ,python .... other
 
 <a href="https://www.github.com/chaiwat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chaiwat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
