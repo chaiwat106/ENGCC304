@@ -12,7 +12,7 @@ learning programing
 * 🧠  I'm learning C , C++ , python and try to learn ohter language
 
 <a href="https://www.github.com/chaiwat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chaiwat?logo=github&style=for-the-badge&color=000000&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/chaiwat?logo=github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
 
 ### Skills
 
@@ -30,4 +30,4 @@ src="https://img.shields.io/github/followers/chaiwat?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/chaiwat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chaiwat&stroke=ffffff&background=000000&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/chaiwat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chaiwat&stroke=ffffff&background=1e3a8a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
